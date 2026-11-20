@@ -15,6 +15,17 @@ Both modes show the **same content** and receive updates from this repository. T
 
 If an Android browser says the app cannot be installed, confirm you're using Chrome directly (not a messaging-app browser), reload after the latest GitHub Pages deployment, and try the Chrome menu. This is an installable web app, **not** a Google Play Store APK.
 
+## GPS friend-tracking and Raspberry Pi maker lab (November 19, 2026)
+
+Two new mobile navigation tabs are published in the website and installable PWA:
+
+- **GPS:** Practical comparison of phone + MeshCore companion radio, RAK4631 WisBlock + GNSS, and a self-contained LILYGO T-Deck Plus. Includes the actual GPS → app → radio → mesh → map data path, illustrated last-heard friend map, privacy considerations, old SIM-less iPhones, offline maps, and step-by-step MeshCore TEAM setup.
+- **Pi lab:** Why a Raspberry Pi is a controller, not the MeshCore LoRa radio; choosing a Pi Zero 2 W versus Pi 4/5; starter bill of materials; USB serial firmware flashing; soldering practice, LED/button projects, custom PETG cases, a future Pi dashboard and sensor expansions.
+
+**Important:** This website is an educational guide and optional installable PWA. It is not the separate MeshCore TEAM communication/tracking app. See [MeshCore TEAM user guide](https://tmacinc.github.io/MeshCore-TEAM/) for actual off-grid group tracking. TEAM works with stock MeshCore companion firmware for core map/tracking functions; autonomous phone-free position broadcast needs supported radio GNSS and compatible custom firmware. The T-Deck Plus can be standalone for messaging, but on-device maps are firmware dependent. A phone with GPS can still work without a SIM if the app, maps, radio and battery are prepared beforehand.
+
+Sources: [TEAM manual](https://tmacinc.github.io/MeshCore-TEAM/), [MeshCore hardware/firmware FAQ](https://docs.meshcore.io/faq/), [LILYGO T-Deck Plus specs](https://wiki.lilygo.cc/products/t-deck-series/t-deck-plus/), [Raspberry Pi Zero 2 W specs](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/).
+
 ## New visual walkthroughs
 
 The guide now contains an annotated radio-board illustration, an exploded parts diagram, a six-step assembly flowchart, and a visual network-message route. These are conceptual aids, not electrical schematics. Always verify your exact board model and battery polarity with the manufacturer.
