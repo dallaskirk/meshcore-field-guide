@@ -2,6 +2,23 @@
 
 A mobile-friendly, interactive beginner guide to **MeshCore** and the community-run **MountainWest Mesh** network. Built for sharing with friends.
 
+## Two ways to use the same guide
+
+**Regular website:** Open https://dallaskirk.github.io/meshcore-field-guide/ in any browser. Share that exact link with friends, including Logan. No account or installation required.
+
+**Installable phone app (PWA):** Open the same URL in **Chrome on Android** or **Safari on iPhone**, rather than an in-app preview browser.
+- **Samsung Galaxy / Android:** Tap **Install guide app** inside the guide if offered. Otherwise in Chrome tap **⋮ → Add to Home screen → Install app**. The installed version gets a home-screen icon and opens without browser tabs.
+- **iPhone:** In Safari tap **Share → Add to Home Screen**.
+- **Desktop:** On compatible browsers, use the browser's install option.
+
+Both modes show the **same content** and receive updates from this repository. The installed app caches core guide pages for offline reading after it has loaded successfully online. External links, online maps, firmware downloads, and product shopping still require connectivity.
+
+If an Android browser says the app cannot be installed, confirm you're using Chrome directly (not a messaging-app browser), reload after the latest GitHub Pages deployment, and try the Chrome menu. This is an installable web app, **not** a Google Play Store APK.
+
+## New visual walkthroughs
+
+The guide now contains an annotated radio-board illustration, an exploded parts diagram, a six-step assembly flowchart, and a visual network-message route. These are conceptual aids, not electrical schematics. Always verify your exact board model and battery polarity with the manufacturer.
+
 ## Public website
 
 Once GitHub Pages is enabled (Settings → Pages → Deploy from a branch → main / root), open **https://dallaskirk.github.io/meshcore-field-guide/** on any phone or computer. This static site has no account/login requirement and can be shared with friends.
