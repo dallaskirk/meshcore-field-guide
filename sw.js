@@ -1,4 +1,4 @@
-const CACHE = 'offgrid-guide-v1-visual-pwa';
+const CACHE = 'offgrid-guide-v2-gps-pi';
 const ROOT = '/meshcore-field-guide/';
 const CORE = [ROOT, ROOT+'index.html', ROOT+'manifest.webmanifest', ROOT+'icons/icon-192.png', ROOT+'icons/icon-512.png'];
 self.addEventListener('install', event => {
