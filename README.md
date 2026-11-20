@@ -6,6 +6,16 @@ A mobile-friendly, interactive beginner guide to **MeshCore** and the community-
 
 Once GitHub Pages is enabled (Settings → Pages → Deploy from a branch → main / root), open **https://dallaskirk.github.io/meshcore-field-guide/** on any phone or computer. This static site has no account/login requirement and can be shared with friends.
 
+## Open on a phone and share with friends
+
+After GitHub Pages is enabled, visit **https://dallaskirk.github.io/meshcore-field-guide/** in any phone browser. It is a mobile-friendly public web page with no sign-in needed.
+
+- **Android / Galaxy:** open the site in Chrome, tap the three-dot menu, then **Add to Home screen**.
+- **iPhone:** open it in Safari, tap **Share**, then **Add to Home Screen**.
+- **Send to a friend:** copy the published site URL from the address bar and share it in Messages or any chat.
+
+The interactive setup checklist saves independently in each person's browser. It does not sync or expose checkmarks to other visitors.
+
 ## What's inside
 
 - **Start here:** what the network does and the fastest route to a first message
